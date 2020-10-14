@@ -1,0 +1,20 @@
+﻿  usbSDKdemo.cpp
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(166): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(281): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(284): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(309): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(312): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(318): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(319): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(672): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(703): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(736): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\21指令集合制备优化最小系统-v1\devicedemo\usbsdkdemo.cpp(873): warning C4018: “<”: 有符号/无符号不匹配
+  devicedemo.vcxproj -> C:\Users\nk\Desktop\21指令集合制备优化最小系统-V1\Debug\devicedemo.exe
+  devicedemo.vcxproj -> C:\Users\nk\Desktop\21指令集合制备优化最小系统-V1\Debug\devicedemo.pdb (Full PDB)
